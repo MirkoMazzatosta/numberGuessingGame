@@ -4,9 +4,7 @@ A simple browser-based number guessing game built with HTML, CSS, and JavaScript
 
 ## Features
 - **Interactive gameplay**: Guess a random number between 1 and 100
-- **Visual feedback**: Color-coded hints for hot/cold guesses
 - **Score tracking**: Keep track of your best score
-- **Responsive design**: Works on desktop and mobile devices
 - **Reset functionality**: Start fresh with a new number
 
 ## How to Play
